@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Anastasia Korovkina",
+  "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+  "identity": "anko.cleanmicroservicesarchitecture.template",
+  "name": "Clean Architecture Project Template",
+  "description": "Clean Architecture template for microservices with API, Application, Core and Infrastructure layers om the course.",
+  "shortName": "CApi",
+  "sourceName": "CApi",
+  "preferDefaultName": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
