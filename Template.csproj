@@ -13,11 +13,12 @@
         <ContentTargetFolders>content</ContentTargetFolders>
         <NoWarn>$(NoWarn);NU5128</NoWarn>
         <RepositoryUrl>https://github.com/AnastasiaKorovkina/lean-dotnet-clean-microservices-architecture-template</RepositoryUrl>
-        <PackageLicenseExpression>empty</PackageLicenseExpression>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
-        <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
+        <Content Include="working\content\**" Exclude="working\content\**\bin\**;working\content\**\obj\**" />
         <Compile Remove="**\*" />
     </ItemGroup>
+
 </Project>
