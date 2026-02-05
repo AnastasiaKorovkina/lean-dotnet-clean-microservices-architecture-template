@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.Net.Sdk">
     <PropertyGroup>
         <PackageType>Template</PackageType>
-        <PackageVersion>1.0.0</PackageVersion>
+        <PackageVersion>1.0.4</PackageVersion>
         <PackageId>anko.cleanmicroservicesarchitecture.template</PackageId>
         <Authors>Anastasia Korovkina</Authors>
         <Title>Clean Architecture Project Template</Title>
