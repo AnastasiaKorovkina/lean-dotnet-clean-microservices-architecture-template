@@ -10,8 +10,8 @@
   "identity": "anko.cleanarchitecture.template",
   "name": "Clean Architecture Project Template",
   "description": "Clean Architecture template for microservices with API, Application, Core and Infrastructure layers om the course.",
-  "shortName": "CApi",
-  "sourceName": "CApi",
+  "shortName": "Capi",
+  "sourceName": "Capi",
   "preferDefaultName": true,
   "tags": {
     "language": "C#",
