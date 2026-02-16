@@ -12,7 +12,7 @@
   "description": "Clean Architecture template for microservices with API, Application, Core and Infrastructure layers om the course.",
   "shortName": "Capi",
   "sourceName": "Capi",
-  "preferDefaultName": true,
+  "preferNameDirectory": true,
   "tags": {
     "language": "C#",
     "type": "project"
